@@ -26,7 +26,7 @@ PROYECTO PARA QA DESIGN UX/UI para el aplicación "Urban Routes" (Duración: 2 s
 - Realicé más de 30 casos de prueba para los diseños y funciones
 - encontre 17 bugs y los redacte en Jira con informe de errores, asegurando el nivel de prioridad para cada defecto encontrado
 - Desminuí en un 30% la realización de pruebas exahustivas y exploratorias, depurando las pruebas de regresión de forma efectiva
-- 
+
 
 PROYECTO EN API TESTING para la aplicación "Urban Grocers" (Duración: 2 semanas - del 03/May al 18/May del 2026
 
