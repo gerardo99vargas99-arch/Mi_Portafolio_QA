@@ -16,6 +16,7 @@ Me gusta analizar y construir casos de prueba para los distintos roles que se me
 - Practica profesional en 2 proyectos para pruebas automatizadas
 - Garanticé la solución de errores en más de 100 pruebas de regresión y pruebas exhaustivas
 
+
 ## PROYECTOS
 PROYECTO PARA QA DESIGN UX/UI para el aplicación "Urban Routes" (Duración: 2 semanas - del 02/Feb al 16/Feb del 2026)
 
@@ -25,6 +26,7 @@ PROYECTO PARA QA DESIGN UX/UI para el aplicación "Urban Routes" (Duración: 2 s
 - Realicé más de 30 casos de prueba para los diseños y funciones
 - encontre 17 bugs y los redacte en Jira con informe de errores, asegurando el nivel de prioridad para cada defecto encontrado
 - Desminuí en un 30% la realización de pruebas exahustivas y exploratorias, depurando las pruebas de regresión de forma efectiva
+- 
 
 PROYECTO EN API TESTING para la aplicación "Urban Grocers" (Duración: 2 semanas - del 03/May al 18/May del 2026
 
@@ -33,6 +35,7 @@ PROYECTO EN API TESTING para la aplicación "Urban Grocers" (Duración: 2 semana
 - Encontré más de 20 bugs en la aplicación de metodos POST para la creación de usuarios en el back-end del producto
 - Diseñé y documenté informe de errores en Jira, priorizando la veracidad del los defectos analiticamente
 - Anticipe los defectos decumentados, mejorando asi el flujo de trabajo en un 25% más rapido
+  
 
 PROYECTO EN ANDRIOD STUDIO para la app móvil "Urban Lunch" (Duración: 2 semanas - del 15/jun al 30/jun del 2026
 
@@ -44,18 +47,65 @@ PROYECTO EN ANDRIOD STUDIO para la app móvil "Urban Lunch" (Duración: 2 semana
 - Obtube una disminución del 35% en pruebas exahustivas, Erradicando la posibilidad de nuevos defectos
 
 
-## HERRAMIENTAS
-1. Excel
-2. Jira
-3. Devtools
-4. FIGMA
-5. Postman
-6. Android Studio
-7. Cygwin
-8. PostgreSQL
-9. Python (Pycharm)
-10. Pytest
-11. Selenium WebDriver
+## HERRAMIENTAS TÉCNICAS
+
+1. LENGUAJES DE PROGRAMACIÓN: PYTHON - JAVA - JAVASCRIPT
+
+2. REPORTE DE BUGS: JIRA
+
+3. DISEÑOS: FIGMA
+
+4. PRUEBAS DE APIS: POSTMAN - SWAGGER UI - POSTMAN DOCUMENTOS
+
+5. AUTOMATIZACIÓN: SELENIUM 
+
+6. BASE DE DATOS: POSTGRE SQL
+
+7. CONTROLADOR DE VERSIONES: GIT - GITHUB
+
+8. INSPECTOR WEB: CHROME DEVTOOLS - FIREFOX DEVTOOLS
+
+9. FRAMEWORKS: Junit/JAVA - Pytest/PYTHON (BÁSICO)
+
+10. CAPTURADOR DE PANTALLA: SNIPPING TOOL
+
+11. GESTIÓN DE DOCUMENTOS: GOOGLE DOCS - NOTION
+
+12. INTELIGENCIA ARTIFICIAL: chatGPT - GEMINI
+
+13. SISTEMAS OPERATIVOS: WINDOWS - LINUX (BÁSICO)
+
+14. LINEA DE COMANDOS: CMD - BASH
+
+15. NAVEGADORES: CHROME - FIREFOX - EDGE
+
+16. EMULADOR DE APPS MÓVILES: ANDROID STUDIO
+
+17. RED DE COMUNICACIÓN: DISCORD - LINKEDIN - EMAIL
+
+
+## HABILIDADES BLANDAS
+
+1. COMUNICACIÓN: VERBAL - ESCRITA - ACTIVA - ESCUCHA ACTIVA- ASERTIVA
+
+2. PENSAMIENTO: CRÍTICO CONTRUCTIVO - ANALÍTICO - LÓGICO
+
+3. ATENCION AL CLIENTE: OBSERVADOR - PRECISIÓN - MINUCIOSIDAD
+
+4. TRABAJO EN EQUIPO: EMPATÍA - RESPETO - COMPARTIDO - COLABORADOR - MULTIDISCIPLINARIO
+
+5. GESTIÓN DE TIEMPO: ORGANIZADO - PRIORIZACIÓN - PLANIFICACIÓN - PUNTUAL
+
+6. ADAPTABILIDAD: FLEXIBLE - APRENDIZAJE CONTÍNUO - CRECIMIENTO
+
+7. LIDERAZGO: INFLUENCIA POSITIVA - MOTIVACIONAL - INICIATIVA - SOLUCIÓN DE COMFLICTOS
+
+8. INTELIGENCIA: PACIENCIA -  TOLERANCIA - AUTOCONTROL - AUTONOMÍA
+
+9. PROFESIONALISMO: ÉTICO - HONESTIDAD - RESPONSABILIDAD - COMPROMISO - DISCIPLINA
+
+10. CREATIVIDAD: INNOVACIÓN - CURIOSIDAD - METICULOSIDAD
+
 
 ## CARRERA PROFESIONAL
 LICENCIATURA EN ARQUITECTURA - Del 01/Ago/2018 al 15/Ago/2021 (Carrera trunca)
